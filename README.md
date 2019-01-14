@@ -11,5 +11,5 @@ Features:
 How to use:
 - Clone the project from GitHub
 - Open Visual Studio
-- Download the following NUGet packages
+- Note that it should automatically restore related NuGet packages or Download the related NUGet packages
 - Right click and execute it via built in test explorer
