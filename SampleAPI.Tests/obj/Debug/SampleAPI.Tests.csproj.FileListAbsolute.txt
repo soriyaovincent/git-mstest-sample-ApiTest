@@ -1,0 +1,25 @@
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\SampleAPI.Tests.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\SampleAPI.Tests.pdb
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\obj\Debug\SampleAPI.Tests.dll
+C:\Users\vincent.a.a.soriyao\Documents\Visual Studio 2015\Projects\SampleAPI.Tests\SampleAPI.Tests\obj\Debug\SampleAPI.Tests.pdb
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\SampleAPI.Tests.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\SampleAPI.Tests.pdb
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\obj\Debug\SampleAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\obj\Debug\SampleAPI.Tests.dll
+C:\Users\vincent.a.a.soriyao\Source\Repos\soriyaovincent\git-mstest-sample-ApiTest\SampleAPI.Tests\obj\Debug\SampleAPI.Tests.pdb
